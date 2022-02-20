@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88b47fd7.chunk.css",
+    "main.js": "/static/js/main.0553c735.chunk.js",
+    "main.js.map": "/static/js/main.0553c735.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7ba8b6f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7ba8b6f2.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9b405329.chunk.js": "/static/js/2.9b405329.chunk.js",
+    "static/js/2.9b405329.chunk.js.map": "/static/js/2.9b405329.chunk.js.map",
+    "static/js/3.75b16d9c.chunk.js": "/static/js/3.75b16d9c.chunk.js",
+    "static/js/3.75b16d9c.chunk.js.map": "/static/js/3.75b16d9c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.88b47fd7.chunk.css.map": "/static/css/main.88b47fd7.chunk.css.map",
+    "static/js/2.9b405329.chunk.js.LICENSE.txt": "/static/js/2.9b405329.chunk.js.LICENSE.txt",
+    "static/media/NBA-logo.b6bf2092.png": "/static/media/NBA-logo.b6bf2092.png",
+    "static/media/NBA_75_logo.73d2f080.png": "/static/media/NBA_75_logo.73d2f080.png",
+    "static/media/index.css": "/static/media/background.4fa9d827.png",
+    "static/media/basketball-player.0d24ef89.png": "/static/media/basketball-player.0d24ef89.png",
+    "static/media/facebook.dd33bde2.png": "/static/media/facebook.dd33bde2.png",
+    "static/media/instagram.96708dc0.png": "/static/media/instagram.96708dc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ba8b6f2.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9b405329.chunk.js",
+    "static/css/main.88b47fd7.chunk.css",
+    "static/js/main.0553c735.chunk.js"
+  ]
+}

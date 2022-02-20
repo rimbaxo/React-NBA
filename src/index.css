@@ -1,0 +1,23 @@
+body{
+    background-color: #0c0c0c;
+    background-image: url("./assets/images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: whitesmoke;
+}
+
+img{
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #C9082A;
+}
+

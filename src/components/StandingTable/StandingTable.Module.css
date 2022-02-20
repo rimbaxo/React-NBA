@@ -1,0 +1,38 @@
+.teamImage{
+    max-width: 80px;
+    max-height: 80px;
+}
+
+.thead{
+    color: whitesmoke;
+    font-size: 21px;
+    border-bottom: 2px solid rgba(245,245,245,0.5) !important;
+}
+
+.tbody > tr:last-child{
+    border-bottom: 1px solid rgba(245,245,245,0);
+}
+
+.tbody > tr:hover{
+    cursor: pointer;
+    background-color: rgba(245,245,245,0.1);
+    transform: scale(1.02);
+    transition: 0.2s;
+}
+
+.tbody{
+    color: rgba(245,245,245,0.85);
+    border-bottom: 1px solid rgba(245,245,245,0.1) !important;
+}
+
+@media all and (max-width: 576px){
+    .teamImage{
+        max-width: 60px;
+        max-height: 60px;
+    }
+
+    .thead{
+        font-size: 18px;
+    }
+}
+

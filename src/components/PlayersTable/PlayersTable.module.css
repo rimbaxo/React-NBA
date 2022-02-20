@@ -1,0 +1,50 @@
+.tr {
+    border-bottom: 1px solid rgba(245,245,245,0.3);
+}
+
+.tbody > tr:hover{
+    cursor: pointer;
+    background-color: rgba(245,245,245,0.1);
+    transform: scale(1.02);
+    transition: 0.2s;
+}
+
+.thead{
+    color: whitesmoke;
+    font-size: 21px;
+    border-bottom: 2px solid rgba(245,245,245,0.5) !important;
+}
+
+.tbody{
+    color: rgba(245,245,245,0.85);
+}
+
+.playerImage{
+    max-width: 300px;
+    max-height: 200px;
+}
+
+.teamLogoImage{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.noTeam{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media all and (max-width: 768px){
+    .playerImage{
+        max-width: 100px;
+        max-height: 100px;
+    }
+
+    .teamLogoImage{
+        max-height: 75px;
+        max-width: 75px;
+    }
+}
+
+

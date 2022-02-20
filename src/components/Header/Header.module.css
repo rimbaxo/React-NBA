@@ -1,0 +1,37 @@
+.navBar{
+    background: #17408B;
+    border-bottom: 1px solid whitesmoke;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    z-index: 9;
+}
+
+.logo{
+    max-width: 80px;
+    transition: all .2s;
+    margin-right: 10px;
+}
+
+.logo:hover{
+    transform: scale(1.1);
+}
+
+.navItem a {
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    color: whitesmoke !important;
+}
+
+.navItem a.active{
+    color: #c9082a !important;
+}
+
+.navItem a:hover{
+    color: #C9082A !important;
+}
+
+.openMenu{
+    background-color: rgba(23,64,139, 0.95) !important;
+}
